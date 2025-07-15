@@ -6,7 +6,7 @@ console.log(negValue);
 console.log( 36 % 2);
 
 let str1 = "Hello JavaScript"
-let str2 = "  Mourya"
+let str2 = " Mourya"
 let str3= str1+str2;
 console.log(str3);
 console.log(true);
